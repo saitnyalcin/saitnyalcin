@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saitnyalcin
-- 👀 I’m interested in integration of web apps and micro controllers
-- 🌱 I’m currently learning blockchain technologies
+- 👀 I’m interested in building IoT applications
+- 🌱 I’m currently designing custom board games
 - 💞️ I’m looking to collaborate on web application projects using cool APIs
 - 📫 How to reach me is using my github account
 
