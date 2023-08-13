@@ -8,7 +8,6 @@ I'm Sait, a passionate Software Engineer with a love for crafting elegant soluti
 - 🌱 Exploring Next Generation Frontend Tooling and continuously learning.
 - 💡 Interested in Web Development.
 - 📚 Lifelong learner and avid reader.
-- ⚡ Fun fact: I once coded an entire project over a night and turns out I did a typo mistake in the to's email while emailing the assignment.
 
 ## Tech Stack
 
