@@ -9,12 +9,14 @@ I'm Sait, a passionate Software Engineer with a love for crafting elegant soluti
 - 💡 Interested in Web Development.
 - 📚 Lifelong learner and avid reader.
 
-## Tech Stack
+## Life Changer Tech Stack
 
-- 🖥️ Frontend: HTML, CSS, JavaScript, TypeScript, and React
-- 🗄️ Backend: Node.js
-- 🛢️ Databases: MySQL, FaunaDB.
-- 🚀 Other: Git
+- 🖥️ Frontend: HTML, CSS, JS, TS, React
+- 🗄️ Backend: Sanity.io
+- 🚀 Vite: Lightning-fast development and building for quicker results.
+- 📦 Bun: Streamline your bundling process for efficient code delivery.
+- 🎨 Syncfusion: Elevate your UI with feature-rich components.
+- 👔 Bootstrap: Achieve polished and responsive designs effortlessly.
 
 ## Connect with Me
 
