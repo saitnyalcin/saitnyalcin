@@ -20,10 +20,6 @@ I'm Sait, a passionate Software Engineer with a love for crafting elegant soluti
 
 ## Connect with Me
 
-Let's connect and collaborate:
-
-- LinkedIn: [sait-yalcin](https://ca.linkedin.com/in/sait-yalcin)
-
 Feel free to explore my repositories and reach out if you'd like to collaborate or discuss anything tech-related. Looking forward to connecting with fellow developers and enthusiasts! 🚀
 
 <!---
